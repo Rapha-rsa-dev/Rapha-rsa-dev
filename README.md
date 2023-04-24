@@ -26,6 +26,7 @@
 
 
 ## Tecnologias que eu utilizo no meu dia.
+### Technologies I use in my day.
 
 <div style="display: inline-block"><br>
 <img aling="center" width="53px" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
@@ -37,9 +38,10 @@
 <img aling="center" width="110px" alt="Azure" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"/>
 </div><br><br>
 
-### Apaixonado por tecnologia.
+
 ### Não treine até acertar, treine até ser impossivel errar!
-### Contato 
+### Don't train until you get it right, train until you can't get it wrong!
+### Contact 
 
 - [![Wathsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579999921616)
 
