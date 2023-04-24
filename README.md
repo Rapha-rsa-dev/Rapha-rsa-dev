@@ -38,6 +38,8 @@
 <img aling="center" width="110px" alt="Azure" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"/>
 </div><br><br>
 
+ 
+ 
 
 ### Não treine até acertar, treine até ser impossivel errar!
 ### Don't train until you get it right, train until you can't get it wrong!
@@ -58,6 +60,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rapha-rsa-dev}/count.svg" /></p> 
 <br>
 </div>
+ 
+ ### Projetos Finalizados:
+ 
+ - [Projeto Home Page do filme Super Mario Bross - HTML, CSS e JS](https://rapha-rsa-dev.github.io/Projeto-Filme-do-mario/)<br>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25d60b&height=120&section=footer"/>
