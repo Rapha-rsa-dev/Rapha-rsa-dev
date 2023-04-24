@@ -9,6 +9,7 @@
 )](https://www.twitch.tv/gintoki_games/)
 
 ![Rapha Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Rapha-rsa-dev&show_icons=true&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rapha-rsa-dev&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/Rapha-rsa-dev/github-readme-activity-graph)
 
 
 ## Tecnologias que eu utilizo no meu dia.
