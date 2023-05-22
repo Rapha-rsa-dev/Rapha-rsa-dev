@@ -65,7 +65,7 @@
  
  - [Projeto Home Page do filme Super Mario Bross - HTML, CSS e JS](https://rapha-rsa-dev.github.io/Projeto-Filme-do-mario/)<br>
 
-- [Projeto Prontuario Wxexer com tela de login. HTML+CSS+JS puro](https://prontuario.vercel.app/)<br>
+- [Projeto Prontuario Wxexer com tela de login. HTML+CSS+JS puro](https://prontuario-7rv1f6kdd-rapha-rsa-dev.vercel.app/)<br>
 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25d60b&height=120&section=footer"/>
